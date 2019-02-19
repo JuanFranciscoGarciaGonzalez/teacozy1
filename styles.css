@@ -47,4 +47,6 @@ a{
 }
 #mission{
   height: 700px;
+  background-image:
+    url(img-mission-background.jpg);
 }
