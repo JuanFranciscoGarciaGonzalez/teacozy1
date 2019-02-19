@@ -34,4 +34,5 @@ nav{
 }
 nav span{
   display: inline-block;
+  padding: 20px 10px;
 }
