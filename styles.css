@@ -51,3 +51,6 @@ a{
     url(img-mission-background.jpg);
   padding-top: 70px;
 }
+#mission .content{
+  margin: auto;
+}
