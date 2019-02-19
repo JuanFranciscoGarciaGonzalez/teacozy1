@@ -12,6 +12,7 @@ body{
 }
 header{
   width: 100%;
+  position: fixed;
 }
 header img{
   height: 50px;
