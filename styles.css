@@ -1,7 +1,9 @@
 html{
   display: block;
 }
-
+body{
+  margin: 0;
+}
 
 header img{
   height: 50px;
