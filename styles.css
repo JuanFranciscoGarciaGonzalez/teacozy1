@@ -19,6 +19,9 @@ header{
   border-bottom: 1px solid seashell;
   align-items: center;
 }
+.flex-container {
+  display: flex;
+}
 header img{
   height: 50px;
   padding-left: 10px;
