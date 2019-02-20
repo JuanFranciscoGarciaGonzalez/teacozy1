@@ -92,4 +92,5 @@ h2, h3, h4 {
   padding: 10px;
   margin: 5px 20px;
   background-color: black;
+  flex-basis: 280px;
 }
