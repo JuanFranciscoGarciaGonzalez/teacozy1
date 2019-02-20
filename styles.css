@@ -77,4 +77,5 @@ h2, h3, h4 {
 #locations{
   background-image:
    url(img-locations-background.jpg);
+   height: 500px;
 }
