@@ -94,4 +94,5 @@ h2, h3, h4 {
   background-color: black;
   flex-basis: 280px;
   display: flex;
+  flex-direction: column;
 }
