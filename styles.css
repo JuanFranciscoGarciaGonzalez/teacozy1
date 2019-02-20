@@ -71,4 +71,5 @@ h2, h3, h4 {
 }
 .item img{
   height: 200px;
+  margin: 10px;
 }
