@@ -95,4 +95,5 @@ h2, h3, h4 {
   flex-basis: 280px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
