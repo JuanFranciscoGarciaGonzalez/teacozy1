@@ -89,4 +89,5 @@ h2, h3, h4 {
 }
 .location {
   opacity: 1.0;
+  padding: 10px;
 }
